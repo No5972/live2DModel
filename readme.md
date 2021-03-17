@@ -4,6 +4,8 @@
 
 模型源自 https://github.com/xiazeyu/live2d-widget.js 作者，这里只是简单展示，具体使用可以看该项目。
 
+**注意各模型的各自使用协议，全部仅限非商业用途。仓主不对任何可能的问题负责。**
+
 ## Demo
 
 <a href="https://qishaoxuan.github.io/liveModel/">liveModel</a>
